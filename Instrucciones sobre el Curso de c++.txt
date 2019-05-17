@@ -1,0 +1,26 @@
+/*Curso de c++*/
+
+c++ es un lenguaje de programacion C++ es un lenguaje de programación diseñado en 1979 por
+ Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C 
+mecanismos que permiten la manipulación de objetos. En ese sentido, 
+desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido
+
+
+
+Estos son los cursos que implementare para la enseñansa de programacion descarguen los libros de trabajo 
+de c++ y de  otros contenidos que subire continuamente a github
+
+
+Curso completo de c++
+	!!Tiene alrededor de 120 programas con el devC++!!
+	Curso de Introduccion con Unity Videojuegos 2D
+	Implementacion con programas de escritorio con visual basic
+	Base de datos con mySql con c++
+	Programas hechos con c++ como prueba de trabajo 
+
+
+los Cursos estaran disponibles solo en github con trabajo de aprendizaje sobre el c++
+
+
+	
+	
